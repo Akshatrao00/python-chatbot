@@ -1,5 +1,3 @@
-# python-chatbot
-A simple chatbot built using Python and regex
 # 🤖 Python Chatbot (PyBot)
 
 A simple yet powerful chatbot built using Python and regex, capable of handling basic text-based conversations. Great for beginners and deployable on web!
@@ -21,4 +19,4 @@ A simple yet powerful chatbot built using Python and regex, capable of handling 
 ```bash
 git clone https://github.com/Akshatrao00/python-chatbot.git
 cd python-chatbot
-python chatbot.py
+python app.py
